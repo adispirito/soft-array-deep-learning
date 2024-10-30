@@ -1,0 +1,17 @@
+# List of pip Requirements:
+opencv-python-headless
+imageio
+pandas
+scipy
+h5py
+scikit-image
+tensorflow-datasets
+jupyterlab
+jupyterlab-lsp
+python-language-server[all]
+nvidia-ml-py3
+tensorflow-io
+keras-cv==0.5.1
+pycocotools
+numba
+cupy-cuda11x

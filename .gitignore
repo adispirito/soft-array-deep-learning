@@ -1,0 +1,17 @@
+*_data*
+*.asv
+data
+*tmp
+!src/ring_array_info/data
+legacy
+*leg*
+.virtual_documents
+trained_models
+__pycache__
+*.pyc
+.ipynb_checkpoints
+*saved_model*
+**/pa_forward_model/**/*.mat
+**/pa_forward_model/**/*.h5
+src/recon_code/figures*
+*sparse_matrix*.mat
